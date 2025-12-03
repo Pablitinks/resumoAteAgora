@@ -2,7 +2,7 @@
 
 Este documento consolida os principais conceitos abordados sobre a infraestrutura da internet, desenvolvimento web e as práticas de controle de versão com Git e GitHub.
 
-![rede](https://img.elo7.com.br/product/zoom/3AC82DE/rede-de-dormir-descanso-pernambucana-reforcada-palha-comprar-de-de-descanso.jpg)
+![rede](https://images.tcdn.com.br/img/img_prod/1354873/180_rede_de_descanso_casal_peroba_235_variacao_259_1_0cb23fb04bca1375390144816402be6a.png)
 
 
 ## 1. Redes, Internet e Desenvolvimento Web
