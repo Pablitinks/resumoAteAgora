@@ -36,8 +36,7 @@ Este documento consolida os principais conceitos abordados sobre a infraestrutur
 -   **VS Code:**  Atalhos essenciais e extensões para produtividade.
 -   **Emmet:**  Uso de abreviações para acelerar a escrita de HTML/CSS.
 -   Preparação do ambiente de trabalho (arquivos  `.html`  e diretórios).
-
-<img src="[img/foto.png](https://stickerly.pstatic.net/sticker_pack/XWck3Qe1XlxSv8NSW31w/L11DTE/16/c186991d-1ced-438d-9004-bb40c95e53aa.png)" width="300" />
+  
 ![github](https://miro.medium.com/1*dDNpLKu_oTLzStsDTnkJ-g.png)
 
 ## 2. Controle de Versão com Git e GitHub
