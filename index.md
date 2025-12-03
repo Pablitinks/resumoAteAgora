@@ -37,7 +37,7 @@ Este documento consolida os principais conceitos abordados sobre a infraestrutur
 -   **Emmet:**  Uso de abreviações para acelerar a escrita de HTML/CSS.
 -   Preparação do ambiente de trabalho (arquivos  `.html`  e diretórios).
 
-![github]([https://miro.medium.com/1*dDNpLKu_oTLzStsDTnkJ-g.png])
+![github](https://miro.medium.com/1*dDNpLKu_oTLzStsDTnkJ-g.png)
 
 ## 2. Controle de Versão com Git e GitHub
 
