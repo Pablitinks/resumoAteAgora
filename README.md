@@ -1,6 +1,7 @@
 # Redes, Internet e Versionamento
 
 Este documento consolida os principais conceitos abordados sobre a infraestrutura da internet, desenvolvimento web e as práticas de controle de versão com Git e GitHub.
+![rede]([https://meusite.com/imagem.jpg](https://img.elo7.com.br/product/zoom/3AC82DE/rede-de-dormir-descanso-pernambucana-reforcada-palha-comprar-de-de-descanso.jpg))
 
 ## 1. Redes, Internet e Desenvolvimento Web
 
