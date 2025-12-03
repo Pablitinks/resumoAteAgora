@@ -1,5 +1,3 @@
-#MD do Pablo
-
 # Redes, Internet e Versionamento
 
 Este documento consolida os principais conceitos abordados sobre a infraestrutura da internet, desenvolvimento web e as práticas de controle de versão com Git e GitHub.
