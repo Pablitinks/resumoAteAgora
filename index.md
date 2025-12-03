@@ -2,8 +2,8 @@
 
 Este documento consolida os principais conceitos abordados sobre a infraestrutura da internet, desenvolvimento web e as práticas de controle de versão com Git e GitHub.
 
-![rede](https://images.tcdn.com.br/img/img_prod/1354873/180_rede_de_descanso_casal_peroba_235_variacao_259_1_0cb23fb04bca1375390144816402be6a.png) ![emoji](https://i.pinimg.com/originals/d0/23/83/d02383145fefa4a07d31a390e3674817.png)
-
+![emoji](https://i.pinimg.com/originals/d0/23/83/d02383145fefa4a07d31a390e3674817.png)
+![rede](https://images.tcdn.com.br/img/img_prod/1354873/180_rede_de_descanso_casal_peroba_235_variacao_259_1_0cb23fb04bca1375390144816402be6a.png) 
 
 ## 1. Redes, Internet e Desenvolvimento Web
 
@@ -36,7 +36,7 @@ Este documento consolida os principais conceitos abordados sobre a infraestrutur
 -   **VS Code:**  Atalhos essenciais e extensões para produtividade.
 -   **Emmet:**  Uso de abreviações para acelerar a escrita de HTML/CSS.
 -   Preparação do ambiente de trabalho (arquivos  `.html`  e diretórios).
-
+![emoji]([https://i.pinimg.com/originals/d0/23/83/d02383145fefa4a07d31a390e3674817.png](https://stickerly.pstatic.net/sticker_pack/XWck3Qe1XlxSv8NSW31w/L11DTE/16/c186991d-1ced-438d-9004-bb40c95e53aa.png))
 ![github](https://miro.medium.com/1*dDNpLKu_oTLzStsDTnkJ-g.png)
 
 ## 2. Controle de Versão com Git e GitHub
